@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\bin\Debug\netcoreapp3.1\restaurantRegister10Tables.exe
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\bin\Debug\netcoreapp3.1\restaurantRegister10Tables.deps.json
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\bin\Debug\netcoreapp3.1\restaurantRegister10Tables.runtimeconfig.json
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\bin\Debug\netcoreapp3.1\restaurantRegister10Tables.runtimeconfig.dev.json
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\bin\Debug\netcoreapp3.1\restaurantRegister10Tables.dll
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\bin\Debug\netcoreapp3.1\restaurantRegister10Tables.pdb
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.AssemblyInfo.cs
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.dll
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.pdb
+C:\Users\Home\source\repos\restaurantRegister10Tables\restaurantRegister10Tables\obj\Debug\netcoreapp3.1\restaurantRegister10Tables.genruntimeconfig.cache
